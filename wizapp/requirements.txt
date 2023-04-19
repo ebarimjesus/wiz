@@ -1,0 +1,16 @@
+django==3.2
+
+django-cms
+psycopg2 
+djangocms-text-ckeditor
+django-filer
+
+djangocms-link 
+djangocms-file
+djangocms-picture
+djangocms-video 
+djangocms-googlemap 
+djangocms-snippet 
+djangocms-style
+
+
